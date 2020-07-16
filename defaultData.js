@@ -22,7 +22,13 @@ module.exports ={
                 place: "Bishkek city and ethnical resort Supara",
                 day:"one day",
                 price:"$25 (transportation only)",
-            }]
+            },
+        ],
+            contacts:{
+                whatsapp: "+996777488362",
+                telegram:"aselka",
+                instagram: "@asel.k"
+            },
 
         },
         {
@@ -53,9 +59,9 @@ module.exports ={
                 price:"$120 (transportation only)",
             }],
             contacts:{
-                WhatsApp: "+996555678945",
-                Telegram:"belekov",
-                Istagram: "@aibek_b"
+                whatsapp: "+996555678945",
+                telegram:"belekov",
+                instagram: "@aibek_b"
             },
 
         },
@@ -73,7 +79,12 @@ module.exports ={
                 place: "Bishkek city",
                 day:"one day",
                 price:"$30 (fee for taxi included)",
-            }]
+            }],
+            contacts:{
+                whatsapp: "+996553567845",
+                telegram:"Linara",
+                intagram: "@lina_yu"
+            },
 
         },
         {
@@ -102,7 +113,12 @@ module.exports ={
                 place: "Sary Chelek",
                 day:"two days",
                 price:"$500 (transportation + accomadation)",
-            }]
+            }],
+            contacts:{
+                whatsapp: "+99650656789",
+                telegram:"belekov",
+                instagram: "@aibek_b"
+            },
 
         }
     ]
