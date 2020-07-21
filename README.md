@@ -1,5 +1,5 @@
 # Фэйк API
-для проекта https://github.com/aidanakad/academy-project HITE LITE
+для проекта https://github.com/aidanakad/academy-project HIKE LITE
 
 ## Установка пакетов
 
